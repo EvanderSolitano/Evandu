@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Evandu/static/css/main.2bb32670.chunk.css",
-    "main.js": "/Evandu/static/js/main.8bda7e5c.chunk.js",
-    "main.js.map": "/Evandu/static/js/main.8bda7e5c.chunk.js.map",
+    "main.js": "/Evandu/static/js/main.392ce0ad.chunk.js",
+    "main.js.map": "/Evandu/static/js/main.392ce0ad.chunk.js.map",
     "runtime-main.js": "/Evandu/static/js/runtime-main.015e1988.js",
     "runtime-main.js.map": "/Evandu/static/js/runtime-main.015e1988.js.map",
     "static/js/2.7cf38b0a.chunk.js": "/Evandu/static/js/2.7cf38b0a.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.015e1988.js",
     "static/js/2.7cf38b0a.chunk.js",
     "static/css/main.2bb32670.chunk.css",
-    "static/js/main.8bda7e5c.chunk.js"
+    "static/js/main.392ce0ad.chunk.js"
   ]
 }
