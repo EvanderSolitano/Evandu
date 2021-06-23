@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Evandu/static/css/main.2bb32670.chunk.css",
+    "main.js": "/Evandu/static/js/main.392ce0ad.chunk.js",
+    "main.js.map": "/Evandu/static/js/main.392ce0ad.chunk.js.map",
+    "runtime-main.js": "/Evandu/static/js/runtime-main.015e1988.js",
+    "runtime-main.js.map": "/Evandu/static/js/runtime-main.015e1988.js.map",
+    "static/js/2.7cf38b0a.chunk.js": "/Evandu/static/js/2.7cf38b0a.chunk.js",
+    "static/js/2.7cf38b0a.chunk.js.map": "/Evandu/static/js/2.7cf38b0a.chunk.js.map",
+    "static/js/3.0dae6921.chunk.js": "/Evandu/static/js/3.0dae6921.chunk.js",
+    "static/js/3.0dae6921.chunk.js.map": "/Evandu/static/js/3.0dae6921.chunk.js.map",
+    "index.html": "/Evandu/index.html",
+    "static/css/main.2bb32670.chunk.css.map": "/Evandu/static/css/main.2bb32670.chunk.css.map",
+    "static/js/2.7cf38b0a.chunk.js.LICENSE.txt": "/Evandu/static/js/2.7cf38b0a.chunk.js.LICENSE.txt",
+    "static/media/Appletea.3c2d4ff1.jpg": "/Evandu/static/media/Appletea.3c2d4ff1.jpg",
+    "static/media/Cucumbertea.3e78143b.jpg": "/Evandu/static/media/Cucumbertea.3e78143b.jpg",
+    "static/media/Gingertea.0f6e5321.jpg": "/Evandu/static/media/Gingertea.0f6e5321.jpg",
+    "static/media/greentea.ceeb31f5.jpg": "/Evandu/static/media/greentea.ceeb31f5.jpg",
+    "static/media/tsaa.d8b15ebb.png": "/Evandu/static/media/tsaa.d8b15ebb.png",
+    "static/media/vanderfalse.4698e96a.jpg": "/Evandu/static/media/vanderfalse.4698e96a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.015e1988.js",
+    "static/js/2.7cf38b0a.chunk.js",
+    "static/css/main.2bb32670.chunk.css",
+    "static/js/main.392ce0ad.chunk.js"
+  ]
+}
