@@ -1,0 +1,38 @@
+#tea{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+#tea li{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.backgo{
+    position: absolute;
+    opacity:0.8;
+}
+.container{
+    position: relative;
+    z-index:4;
+}
+h3,h5{
+    color: white;
+}
+button{
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    outline: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#tsaa{
+    position: relative;
+    z-index:3;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    align-items: center;
+}

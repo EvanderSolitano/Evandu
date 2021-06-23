@@ -1,0 +1,49 @@
+*{
+    padding:0;
+     margin: 0;
+}
+body{
+overflow-x: hidden;
+}
+.vanderContainer{
+    position: relative;
+    z-index:2;
+    display: flex;
+    min-height: 90vh;
+}
+.vanderdrop{
+    list-style: none;
+    margin: auto;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 0 10px 0;
+    border-radius: 10px;
+}
+.backg{
+    position: absolute;
+}
+#logo{
+    position: absolute;
+    position: fixed;
+  top: 20%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+    z-index:5;
+}
+.vanderdrop li{
+    margin-bottom: 10px;
+}
+input{
+    border: none;
+    padding:10px;
+}
+.register{
+    position: relative;
+    left:100px;
+    top:-40px;
+    color: white;
+}
+#logun{
+    cursor: pointer;
+}
